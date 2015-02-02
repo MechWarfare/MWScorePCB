@@ -1,0 +1,2 @@
+1x 5v reg MCP1702-5002E/TO-ND	
+
